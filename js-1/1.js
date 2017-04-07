@@ -1,0 +1,1 @@
+function rem(){function o(){alert(123)}var l=123,n=789;console.log(n),console.log(l),o()}console.log(888);
